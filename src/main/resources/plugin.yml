@@ -1,0 +1,5 @@
+name: ItemStackBuilder
+main: de.blu.itemstackbuilder.ItemStackBuilderPlugin
+version: 1.0.0
+author: Blu
+api-version: 1.16
